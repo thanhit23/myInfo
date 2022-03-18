@@ -8,7 +8,7 @@
 
 <h2 align="center">information about me</h2>
 
-```javascrip#
+```html#
 () => {
   const fullName = 'Nguyễn Duy Thành';
   const age = 2003;
